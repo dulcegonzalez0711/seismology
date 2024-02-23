@@ -9,4 +9,4 @@ Archivos incluidos:
 - clasificacion_sismos.py
 
 Autoría y Contribuciones:
-- Autora: Dulce Gonzalez 
+- Autora: Dulce Abril González
