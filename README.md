@@ -1,5 +1,5 @@
 # seismology
-Pasantía en sismología en INSIVUMEH
+Prácticas supervisadas primer semestre 2024. INSIVUMEH. 
 
 Este repositorio contiene los scripts y datos utilizados durante la realización de mis prácticas profesionales en INSIVUMEH. 
 
@@ -10,3 +10,4 @@ Archivos incluidos:
 
 Autoría y Contribuciones:
 - Autora: Dulce Abril González
+- Supervisor: Ing. Diego Castro
